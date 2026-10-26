@@ -1,0 +1,6 @@
+=== Database Management Systems: Normalization Guide ===
+1. First Normal Form (1NF): Atomic attributes, no repeating groups.
+2. Second Normal Form (2NF): 1NF + No partial functional dependencies on candidate keys.
+3. Third Normal Form (3NF): 2NF + No transitive dependencies.
+4. Boyce-Codd Normal Form (BCNF): For every X -> Y, X must be a superkey.
+5. Query Execution Optimization: Clustered vs Non-Clustered B+ Tree Indexing.

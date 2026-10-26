@@ -1,0 +1,66 @@
+# ==============================================================================
+# Campus Performance Portal - Git Ignore Rules
+# ==============================================================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Caches, test runs, and test coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables, local secrets, and configuration overrides
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# SQLite databases & persistent data files
+*.db
+*.sqlite
+*.sqlite3
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+!data/.gitkeep
+
+# Generated exports and dynamic reports
+reports/*.xlsx
+reports/*.csv
+reports/*.pdf
+!reports/.gitkeep
+
+# Runtime student uploads & submissions (sample assignments and materials are tracked)
+uploads/submissions/*
+!uploads/submissions/.gitkeep
+!uploads/materials/.gitkeep
+!uploads/assignments/.gitkeep
+
+# IDEs and Editor metadata
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Streamlit temporary runtime cache
+.streamlit/.cache/

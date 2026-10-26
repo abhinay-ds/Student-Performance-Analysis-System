@@ -1,0 +1,6 @@
+=== Python Programming Core Fundamentals ===
+1. Dynamic Typing and Memory Model: Variables as Object References.
+2. List Comprehensions & Generator Expressions: Memory-efficient iteration.
+3. OOP Concepts: Encapsulation, Polymorphism, Abstract Base Classes (abc).
+4. Decorators & Context Managers (with statement protocol).
+5. File Handling & Stream Processing with JSON and CSV.

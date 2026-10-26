@@ -1,0 +1,16 @@
+student_id,subject_code,session_date,session_label,status
+STU101,CS401,2025-05-02,Lecture 1,Present
+STU101,CS401,2025-05-05,Lecture 2,Present
+STU101,CS401,2025-05-08,Lecture 3,Present
+STU101,CS401,2025-05-12,Lecture 4,Present
+STU101,CS401,2025-05-15,Lecture 5,Present
+STU102,CS401,2025-05-02,Lecture 1,Present
+STU102,CS401,2025-05-05,Lecture 2,Present
+STU102,CS401,2025-05-08,Lecture 3,Present
+STU102,CS401,2025-05-12,Lecture 4,Present
+STU102,CS401,2025-05-15,Lecture 5,Present
+STU103,CS401,2025-05-02,Lecture 1,Present
+STU103,CS401,2025-05-05,Lecture 2,Present
+STU103,CS401,2025-05-08,Lecture 3,Absent
+STU103,CS401,2025-05-12,Lecture 4,Absent
+STU103,CS401,2025-05-15,Lecture 5,Present

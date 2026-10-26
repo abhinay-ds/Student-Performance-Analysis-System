@@ -1,0 +1,5 @@
+=== Computer Networks: OSI & TCP/IP Layer Reference ===
+1. Physical & Data Link Layer: Framing, CSMA/CD, MAC Addressing.
+2. Network Layer: IPv4/IPv6, CIDR Subnetting, Routing Protocols (OSPF, BGP).
+3. Transport Layer: TCP 3-Way Handshake, Flow Control (Sliding Window), Congestion Control.
+4. Application Layer: DNS Resolution, HTTP/2 vs HTTP/3, TLS/SSL Handshake.

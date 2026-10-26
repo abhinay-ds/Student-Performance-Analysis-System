@@ -1,0 +1,6 @@
+=== Data Structures & Algorithms Quick Reference ===
+1. Complexity Classes: O(1), O(log n), O(n), O(n log n), O(n^2).
+2. Linked Lists, Stacks, Queues, and Priority Queues (Binary Heaps).
+3. Binary Search Trees (BST) & Self-Balancing AVL Trees (LL, RR, LR, RL Rotations).
+4. Graph Algorithms: Breadth-First Search (BFS), Depth-First Search (DFS), Dijkstra.
+5. Dynamic Programming: Optimal Substructure and Overlapping Subproblems.

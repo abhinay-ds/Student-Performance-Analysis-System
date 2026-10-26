@@ -1,0 +1,22 @@
+student_id,subject,internal_marks,assignment_marks,exam_marks,attendance_percentage,exam_date
+STU101,Database Systems,18.5,9.0,62.0,88.5,2025-05-15
+STU101,Operating Systems,17.0,8.5,58.0,91.0,2025-05-18
+STU101,Computer Networks,19.0,9.5,65.0,94.0,2025-05-21
+STU102,Database Systems,19.5,10.0,66.5,96.0,2025-05-15
+STU102,Operating Systems,18.0,9.0,61.0,92.5,2025-05-18
+STU102,Computer Networks,16.5,8.0,54.5,85.0,2025-05-21
+STU103,Database Systems,12.0,6.0,32.0,68.0,2025-05-15
+STU103,Operating Systems,11.5,5.5,28.0,64.0,2025-05-18
+STU103,Computer Networks,14.0,7.0,38.0,72.5,2025-05-21
+STU104,Digital Signal Processing,16.0,8.5,52.0,84.0,2025-05-16
+STU104,VLSI Design,17.5,9.0,59.0,89.0,2025-05-19
+STU105,Thermodynamics,15.0,7.5,45.0,79.0,2025-05-17
+STU105,Fluid Mechanics,13.5,6.5,39.0,74.0,2025-05-20
+STU106,Data Structures,18.0,9.0,60.5,90.0,2025-05-14
+STU106,Python Programming,19.0,9.5,64.0,93.0,2025-05-18
+STU107,Python Programming,19.5,10.0,68.0,98.0,2025-05-18
+STU107,Machine Learning Foundations,18.5,9.0,63.5,95.0,2025-05-22
+STU108,Database Systems,15.0,8.0,49.0,81.0,2025-05-15
+STU108,Computer Networks,14.5,7.5,46.0,78.5,2025-05-21
+STU109,Structural Analysis,11.0,5.0,24.0,62.0,2025-05-16
+STU110,Python Programming,17.0,8.5,56.0,87.0,2025-05-18

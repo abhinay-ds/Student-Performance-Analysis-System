@@ -1,0 +1,11 @@
+student_id,full_name,email,department,course,semester,enrollment_date
+STU101,Aarav Sharma,aarav.sharma@college.edu,Computer Science and Engineering,B.Tech,4,2024-08-01
+STU102,Diya Patel,diya.patel@college.edu,Computer Science and Engineering,B.Tech,4,2024-08-01
+STU103,Rohan Verma,rohan.verma@college.edu,Information Technology,B.Tech,4,2024-08-01
+STU104,Ananya Iyer,ananya.iyer@college.edu,Electronics and Communication,B.Tech,6,2023-08-01
+STU105,Vikram Singh,vikram.singh@college.edu,Mechanical Engineering,B.Tech,6,2023-08-01
+STU106,Neha Gupta,neha.gupta@college.edu,Computer Science and Engineering,B.Tech,2,2025-08-01
+STU107,Karthik Nair,karthik.nair@college.edu,Artificial Intelligence and Data Science,B.Tech,2,2025-08-01
+STU108,Pooja Reddy,pooja.reddy@college.edu,Information Technology,B.Tech,4,2024-08-01
+STU109,Rahul Joshi,rahul.joshi@college.edu,Civil Engineering,B.Tech,4,2024-08-01
+STU110,Sneha Das,sneha.das@college.edu,Artificial Intelligence and Data Science,B.Tech,2,2025-08-01

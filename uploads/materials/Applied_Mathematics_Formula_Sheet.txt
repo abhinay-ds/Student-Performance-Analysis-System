@@ -1,0 +1,6 @@
+=== Applied Mathematics: Discrete & Linear Algebra Revision ===
+1. Determinants and Matrix Inversion: A * adj(A) = det(A) * I.
+2. Eigenvalues & Eigenvectors: det(A - lambda*I) = 0.
+3. Diagonalization: A = P * D * P^(-1).
+4. Bayes Theorem: P(A|B) = [P(B|A) * P(A)] / P(B).
+5. Mathematical Expectation and Variance of Discrete Random Variables.
